@@ -1,4 +1,6 @@
 # oceanic-bin
+<p align-item="centre">
+<img src="https://github.com/NEURAL-Y/oceanic-bin/blob/main/public/logo.png"/></p>
 > A database management system with SQL-style syntax on a native BSON storage engine — built for developers who already think in relational terms but want document-model flexibility.
 
 [![Status](https://img.shields.io/badge/status-early%20development-orange)]()
