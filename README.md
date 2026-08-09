@@ -10,7 +10,7 @@
 
 Developers who know SQL/ORDBMS (Postgres, MySQL) have to relearn an entirely different mental model and query syntax when they need document flexibility (MongoDB). Switching between the two costs real time — different query languages, different schema philosophies, different tooling.
 
-**NexusDB** aims to remove that switching cost: one syntax, backed by a storage engine built for flexible, schema-optional data.
+**OCEANIC BIN** aims to remove that switching cost: one syntax, backed by a storage engine built for flexible, schema-optional data.
 
 ---
 
@@ -34,7 +34,7 @@ Being upfront about prior art matters more than pretending this is unprecedented
 | **MongoDB + Atlas SQL** | SQL querying over BSON via BI connector | Bolted on for BI tools, not a native query path |
 | **Prisma** | Unified syntax across multiple DB backends | Client/ORM layer, not its own storage engine |
 
-NexusDB's differentiation, if it holds up, is the **visual schema pipeline** combined with a **purpose-built BSON storage engine** rather than sitting on top of an existing database.
+OCEANIC BIN differentiation, if it holds up, is the **visual schema pipeline** combined with a **purpose-built BSON storage engine** rather than sitting on top of an existing database.
 
 ---
 
